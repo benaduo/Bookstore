@@ -1,0 +1,39 @@
+<div class="container">
+  <div class="row" style="margin-top: 60px;">
+    <div class="col-md-1"></div>
+    <div class="col-md-10">
+      <button class="btn btn-warning" routerLink="/books/add">Add Book</button>
+     <button class="btn btn-dark" (click)="logout()" style="float: right;">Log Out</button>
+      <span class="text-success">{{message}}</span>
+      <table class="table table-striped">
+        <thead>
+          <tr>
+            <th scope="col">Book ID</th>
+            <th scope="col">Book Name</th>
+            <th scope="col">Category</th>
+            <th scope="col">Price</th>
+            <th scope="col">Description</th>
+            <th scope="col" colspan="2">Action</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr *ngFor="let book of books">
+            <th scope="row">{{book.id}}</th>
+            <td>{{book.name}}</td>
+            <td>{{book.categoryName}}</td>
+            <td>{{book.price}}</td>
+            <td>{{book.description}}</td>
+            <td>
+              <button class="btn btn-info" (click)="updateBook(book.id)">Update</button>
+            </td>
+            <td>
+              <button class="btn btn-danger" (click)="deleteBook(book.id)">Delete</button>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+
+    </div>
+    <div class="col-md-1"></div>
+  </div>
+</div>

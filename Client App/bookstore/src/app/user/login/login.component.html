@@ -1,0 +1,15 @@
+<main class="form-signin" id="form-fit">
+  <h1 class="h3 mb-3 fw-normal">Login</h1>
+  <span class="text-danger">{{message}}</span>
+  <form [formGroup]="loginForm" (ngSubmit)="onSubmit()" novalidate>
+    <label for="inputUsername" class="visually-hidden">Username</label>
+    <input type="text" id="inputUsername" class="form-control" name="username" formControlName="username" placeholder="Username" required autofocus>
+    <label for="inputPassword" class="visually-hidden">Password</label>
+    <input type="password" id="inputPassword" class="form-control" name="password" formControlName="password" placeholder="Password" required>
+    <div class="form-group">
+      <hr />
+    </div>
+    <button class="w-100 btn btn-lg btn-primary" type="submit">Sign in</button>
+  </form>
+  <p class="mt-5 mb-3 text-muted">New User? Click <a routerLink="/user/register">here</a> to register</p>
+</main>

@@ -1,0 +1,361 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Benjamin\\source\\WebAPIs\\Bookstore.net\\Presentation\\Bookstore.API\\Bookstore.API.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Benjamin\\source\\WebAPIs\\Bookstore.net\\Core\\Application\\Bookstore.Application\\Bookstore.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Benjamin\\source\\WebAPIs\\Bookstore.net\\Core\\Application\\Bookstore.Application\\Bookstore.Application.csproj",
+        "projectName": "Bookstore.Application",
+        "projectPath": "C:\\Users\\Benjamin\\source\\WebAPIs\\Bookstore.net\\Core\\Application\\Bookstore.Application\\Bookstore.Application.csproj",
+        "packagesPath": "C:\\Users\\Benjamin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Benjamin\\source\\WebAPIs\\Bookstore.net\\Core\\Application\\Bookstore.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Benjamin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\Benjamin\\source\\WebAPIs\\Bookstore.net\\Core\\Domain\\Bookstore.Domain\\Bookstore.Domain.csproj": {
+                "projectPath": "C:\\Users\\Benjamin\\source\\WebAPIs\\Bookstore.net\\Core\\Domain\\Bookstore.Domain\\Bookstore.Domain.csproj"
+              },
+              "C:\\Users\\Benjamin\\source\\WebAPIs\\Bookstore.net\\Infrastructure\\Bookstore.Infrastructure\\Bookstore.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\Benjamin\\source\\WebAPIs\\Bookstore.net\\Infrastructure\\Bookstore.Infrastructure\\Bookstore.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.1.1, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.9, )"
+            },
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[6.21.0, )"
+            },
+            "NLog.Extensions.Logging": {
+              "target": "Package",
+              "version": "[5.3.2, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.21.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.109\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "linux-x64": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\Users\\Benjamin\\source\\WebAPIs\\Bookstore.net\\Core\\Domain\\Bookstore.Domain\\Bookstore.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Benjamin\\source\\WebAPIs\\Bookstore.net\\Core\\Domain\\Bookstore.Domain\\Bookstore.Domain.csproj",
+        "projectName": "Bookstore.Domain",
+        "projectPath": "C:\\Users\\Benjamin\\source\\WebAPIs\\Bookstore.net\\Core\\Domain\\Bookstore.Domain\\Bookstore.Domain.csproj",
+        "packagesPath": "C:\\Users\\Benjamin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Benjamin\\source\\WebAPIs\\Bookstore.net\\Core\\Domain\\Bookstore.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Benjamin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.109\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "linux-x64": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\Users\\Benjamin\\source\\WebAPIs\\Bookstore.net\\Infrastructure\\Bookstore.Infrastructure\\Bookstore.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Benjamin\\source\\WebAPIs\\Bookstore.net\\Infrastructure\\Bookstore.Infrastructure\\Bookstore.Infrastructure.csproj",
+        "projectName": "Bookstore.Infrastructure",
+        "projectPath": "C:\\Users\\Benjamin\\source\\WebAPIs\\Bookstore.net\\Infrastructure\\Bookstore.Infrastructure\\Bookstore.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Benjamin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Benjamin\\source\\WebAPIs\\Bookstore.net\\Infrastructure\\Bookstore.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Benjamin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\Benjamin\\source\\WebAPIs\\Bookstore.net\\Core\\Domain\\Bookstore.Domain\\Bookstore.Domain.csproj": {
+                "projectPath": "C:\\Users\\Benjamin\\source\\WebAPIs\\Bookstore.net\\Core\\Domain\\Bookstore.Domain\\Bookstore.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.9, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.109\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "linux-x64": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\Users\\Benjamin\\source\\WebAPIs\\Bookstore.net\\Presentation\\Bookstore.API\\Bookstore.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Benjamin\\source\\WebAPIs\\Bookstore.net\\Presentation\\Bookstore.API\\Bookstore.API.csproj",
+        "projectName": "Bookstore.API",
+        "projectPath": "C:\\Users\\Benjamin\\source\\WebAPIs\\Bookstore.net\\Presentation\\Bookstore.API\\Bookstore.API.csproj",
+        "packagesPath": "C:\\Users\\Benjamin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Benjamin\\source\\WebAPIs\\Bookstore.net\\Presentation\\Bookstore.API\\obj\\publish\\linux-x64\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Benjamin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\Benjamin\\source\\WebAPIs\\Bookstore.net\\Core\\Application\\Bookstore.Application\\Bookstore.Application.csproj": {
+                "projectPath": "C:\\Users\\Benjamin\\source\\WebAPIs\\Bookstore.net\\Core\\Application\\Bookstore.Application\\Bookstore.Application.csproj"
+              },
+              "C:\\Users\\Benjamin\\source\\WebAPIs\\Bookstore.net\\Infrastructure\\Bookstore.Infrastructure\\Bookstore.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\Benjamin\\source\\WebAPIs\\Bookstore.net\\Infrastructure\\Bookstore.Infrastructure\\Bookstore.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.1.1, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[7.0.9, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.9, )"
+            },
+            "Microsoft.NET.Build.Containers": {
+              "target": "Package",
+              "version": "[7.0.306, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Runtime.linux-x64",
+              "version": "[7.0.9, 7.0.9]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.linux-x64",
+              "version": "[7.0.9, 7.0.9]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Runtime.linux-x64",
+              "version": "[7.0.9, 7.0.9]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.109\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "linux-x64": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

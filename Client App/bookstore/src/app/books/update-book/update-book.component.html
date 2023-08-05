@@ -1,0 +1,40 @@
+<div class="container">
+  <div class="row" style="margin-top: 60px;">
+    <div class="col-md-4"></div>
+    <div class="col-md-4">
+      <a routerLink="/books" class="btn btn-dark" style="float: right;">Back</a>
+      <h1>Update Book</h1>
+      <form [formGroup]="updateBookForm" (ngSubmit)="onUpdate()">
+        <input type="hidden" class="form-control" formControlName="id" [(ngModel)]="book.id">
+        <input type="hidden" class="form-control" formControlName="categoryId" [(ngModel)]="book.categoryId">
+        <div class="mb-3">
+          <label class="form-label">Title</label>
+          <input type="text" class="form-control" name="name" formControlName="name" [(ngModel)]="book.name">
+        </div>
+
+        <div class="mb-3">
+          <label class="form-label">Category</label>
+          <select class="form-select" formControlName="categoryId">
+            <option selected>Choose Category</option>
+            <option *ngFor="let category of categories" [value]="category.id">
+              {{category.name}}
+            </option>
+          </select>
+        </div>
+        <div class="mb-3">
+          <label class="form-label">Price</label>
+          <input type="text" class="form-control" name="price" required formControlName="price" [(ngModel)]="book.price">
+        </div>
+        <div class="mb-3">
+          <label class="form-label">Description</label>
+          <input type="text" class="form-control" formControlName="description" [(ngModel)]="book.description">
+        </div>
+
+        <button type="submit" class="btn btn-primary">Update Book</button>
+      </form>
+
+      <span class="text-info">{{message}}</span>
+    </div>
+    <div class="col-md-4"></div>
+  </div>
+</div>
