@@ -2,7 +2,7 @@
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <ActiveDebugProfile>Bookstore.API</ActiveDebugProfile>
-    <NameOfLastUsedPublishProfile>C:\Users\Benjamin\source\WebAPIs\Bookstore.net\Presentation\Bookstore.API\Properties\PublishProfiles\registry.hub.docker.com_benaduo14.pubxml</NameOfLastUsedPublishProfile>
+    <NameOfLastUsedPublishProfile>C:\Users\Benjamin\source\WebAPIs\Bookstore.net\.github\workflows\BookstoreAPI20230907212520.yml</NameOfLastUsedPublishProfile>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
     <DebuggerFlavor>ProjectDebugger</DebuggerFlavor>

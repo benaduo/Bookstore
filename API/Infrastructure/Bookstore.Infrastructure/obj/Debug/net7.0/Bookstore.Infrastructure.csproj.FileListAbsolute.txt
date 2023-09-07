@@ -1,0 +1,15 @@
+C:\Users\Benjamin\source\WebAPIs\Bookstore.net\API\Infrastructure\Bookstore.Infrastructure\bin\Debug\net7.0\Bookstore.Infrastructure.deps.json
+C:\Users\Benjamin\source\WebAPIs\Bookstore.net\API\Infrastructure\Bookstore.Infrastructure\bin\Debug\net7.0\Bookstore.Infrastructure.dll
+C:\Users\Benjamin\source\WebAPIs\Bookstore.net\API\Infrastructure\Bookstore.Infrastructure\bin\Debug\net7.0\Bookstore.Infrastructure.pdb
+C:\Users\Benjamin\source\WebAPIs\Bookstore.net\API\Infrastructure\Bookstore.Infrastructure\bin\Debug\net7.0\Bookstore.Domain.dll
+C:\Users\Benjamin\source\WebAPIs\Bookstore.net\API\Infrastructure\Bookstore.Infrastructure\bin\Debug\net7.0\Bookstore.Domain.pdb
+C:\Users\Benjamin\source\WebAPIs\Bookstore.net\API\Infrastructure\Bookstore.Infrastructure\obj\Debug\net7.0\Bookstore.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Benjamin\source\WebAPIs\Bookstore.net\API\Infrastructure\Bookstore.Infrastructure\obj\Debug\net7.0\Bookstore.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Benjamin\source\WebAPIs\Bookstore.net\API\Infrastructure\Bookstore.Infrastructure\obj\Debug\net7.0\Bookstore.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Benjamin\source\WebAPIs\Bookstore.net\API\Infrastructure\Bookstore.Infrastructure\obj\Debug\net7.0\Bookstore.Infrastructure.AssemblyInfo.cs
+C:\Users\Benjamin\source\WebAPIs\Bookstore.net\API\Infrastructure\Bookstore.Infrastructure\obj\Debug\net7.0\Bookstore.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Benjamin\source\WebAPIs\Bookstore.net\API\Infrastructure\Bookstore.Infrastructure\obj\Debug\net7.0\Bookstore.Infrastructure.csproj.CopyComplete
+C:\Users\Benjamin\source\WebAPIs\Bookstore.net\API\Infrastructure\Bookstore.Infrastructure\obj\Debug\net7.0\Bookstore.Infrastructure.dll
+C:\Users\Benjamin\source\WebAPIs\Bookstore.net\API\Infrastructure\Bookstore.Infrastructure\obj\Debug\net7.0\refint\Bookstore.Infrastructure.dll
+C:\Users\Benjamin\source\WebAPIs\Bookstore.net\API\Infrastructure\Bookstore.Infrastructure\obj\Debug\net7.0\Bookstore.Infrastructure.pdb
+C:\Users\Benjamin\source\WebAPIs\Bookstore.net\API\Infrastructure\Bookstore.Infrastructure\obj\Debug\net7.0\ref\Bookstore.Infrastructure.dll

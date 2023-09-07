@@ -1,0 +1,11 @@
+C:\Users\Benjamin\source\WebAPIs\Bookstore.net\API\Core\Domain\Bookstore.Domain\bin\Debug\net7.0\Bookstore.Domain.deps.json
+C:\Users\Benjamin\source\WebAPIs\Bookstore.net\API\Core\Domain\Bookstore.Domain\bin\Debug\net7.0\Bookstore.Domain.dll
+C:\Users\Benjamin\source\WebAPIs\Bookstore.net\API\Core\Domain\Bookstore.Domain\bin\Debug\net7.0\Bookstore.Domain.pdb
+C:\Users\Benjamin\source\WebAPIs\Bookstore.net\API\Core\Domain\Bookstore.Domain\obj\Debug\net7.0\Bookstore.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Benjamin\source\WebAPIs\Bookstore.net\API\Core\Domain\Bookstore.Domain\obj\Debug\net7.0\Bookstore.Domain.AssemblyInfoInputs.cache
+C:\Users\Benjamin\source\WebAPIs\Bookstore.net\API\Core\Domain\Bookstore.Domain\obj\Debug\net7.0\Bookstore.Domain.AssemblyInfo.cs
+C:\Users\Benjamin\source\WebAPIs\Bookstore.net\API\Core\Domain\Bookstore.Domain\obj\Debug\net7.0\Bookstore.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Benjamin\source\WebAPIs\Bookstore.net\API\Core\Domain\Bookstore.Domain\obj\Debug\net7.0\Bookstore.Domain.dll
+C:\Users\Benjamin\source\WebAPIs\Bookstore.net\API\Core\Domain\Bookstore.Domain\obj\Debug\net7.0\refint\Bookstore.Domain.dll
+C:\Users\Benjamin\source\WebAPIs\Bookstore.net\API\Core\Domain\Bookstore.Domain\obj\Debug\net7.0\Bookstore.Domain.pdb
+C:\Users\Benjamin\source\WebAPIs\Bookstore.net\API\Core\Domain\Bookstore.Domain\obj\Debug\net7.0\ref\Bookstore.Domain.dll

@@ -1,0 +1,17 @@
+C:\Users\Benjamin\source\WebAPIs\Bookstore.net\API\Core\Application\Bookstore.Application\bin\Debug\net7.0\Bookstore.Application.deps.json
+C:\Users\Benjamin\source\WebAPIs\Bookstore.net\API\Core\Application\Bookstore.Application\bin\Debug\net7.0\Bookstore.Application.dll
+C:\Users\Benjamin\source\WebAPIs\Bookstore.net\API\Core\Application\Bookstore.Application\bin\Debug\net7.0\Bookstore.Application.pdb
+C:\Users\Benjamin\source\WebAPIs\Bookstore.net\API\Core\Application\Bookstore.Application\bin\Debug\net7.0\Bookstore.Domain.dll
+C:\Users\Benjamin\source\WebAPIs\Bookstore.net\API\Core\Application\Bookstore.Application\bin\Debug\net7.0\Bookstore.Infrastructure.dll
+C:\Users\Benjamin\source\WebAPIs\Bookstore.net\API\Core\Application\Bookstore.Application\bin\Debug\net7.0\Bookstore.Infrastructure.pdb
+C:\Users\Benjamin\source\WebAPIs\Bookstore.net\API\Core\Application\Bookstore.Application\bin\Debug\net7.0\Bookstore.Domain.pdb
+C:\Users\Benjamin\source\WebAPIs\Bookstore.net\API\Core\Application\Bookstore.Application\obj\Debug\net7.0\Bookstore.Application.csproj.AssemblyReference.cache
+C:\Users\Benjamin\source\WebAPIs\Bookstore.net\API\Core\Application\Bookstore.Application\obj\Debug\net7.0\Bookstore.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Benjamin\source\WebAPIs\Bookstore.net\API\Core\Application\Bookstore.Application\obj\Debug\net7.0\Bookstore.Application.AssemblyInfoInputs.cache
+C:\Users\Benjamin\source\WebAPIs\Bookstore.net\API\Core\Application\Bookstore.Application\obj\Debug\net7.0\Bookstore.Application.AssemblyInfo.cs
+C:\Users\Benjamin\source\WebAPIs\Bookstore.net\API\Core\Application\Bookstore.Application\obj\Debug\net7.0\Bookstore.Application.csproj.CoreCompileInputs.cache
+C:\Users\Benjamin\source\WebAPIs\Bookstore.net\API\Core\Application\Bookstore.Application\obj\Debug\net7.0\Bookstore.Application.csproj.CopyComplete
+C:\Users\Benjamin\source\WebAPIs\Bookstore.net\API\Core\Application\Bookstore.Application\obj\Debug\net7.0\Bookstore.Application.dll
+C:\Users\Benjamin\source\WebAPIs\Bookstore.net\API\Core\Application\Bookstore.Application\obj\Debug\net7.0\refint\Bookstore.Application.dll
+C:\Users\Benjamin\source\WebAPIs\Bookstore.net\API\Core\Application\Bookstore.Application\obj\Debug\net7.0\Bookstore.Application.pdb
+C:\Users\Benjamin\source\WebAPIs\Bookstore.net\API\Core\Application\Bookstore.Application\obj\Debug\net7.0\ref\Bookstore.Application.dll

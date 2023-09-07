@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bKd/vH9G90RhOWJ1E62cdxXLsZfW9Ldxi4BXMI9HLTohTKPqPNlYa3fpPFniOwPmIylve/0nGUVDXeNyxQ1k9w==",
+  "dgSpecHash": "qqsqPLQ9WN8/Zyvte9YTyhp3zeo6A0R0vMXjLRpRpZvudTt6LhUEvn3/f3Z4o13aQgcJX0sk9zNZrXU/TQtEIA==",
   "success": true,
-  "projectFilePath": "c:\\Users\\Benjamin\\source\\WebAPIs\\Bookstore.net\\API\\Core\\Domain\\Bookstore.Domain\\Bookstore.Domain.csproj",
+  "projectFilePath": "C:\\Users\\Benjamin\\source\\WebAPIs\\Bookstore.net\\API\\Core\\Domain\\Bookstore.Domain\\Bookstore.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

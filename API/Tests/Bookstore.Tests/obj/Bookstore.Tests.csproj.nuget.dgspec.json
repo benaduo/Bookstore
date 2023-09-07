@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Benjamin\\source\\WebAPIs\\Bookstore.net\\API\\Tests\\Bookstore.Tests\\Bookstore.Tests.csproj": {}
+    "C:\\Users\\Benjamin\\source\\WebAPIs\\Bookstore.net\\API\\Tests\\Bookstore.Tests\\Bookstore.Tests.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Benjamin\\source\\WebAPIs\\Bookstore.net\\API\\Core\\Application\\Bookstore.Application\\Bookstore.Application.csproj": {
+    "C:\\Users\\Benjamin\\source\\WebAPIs\\Bookstore.net\\API\\Core\\Application\\Bookstore.Application\\Bookstore.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Benjamin\\source\\WebAPIs\\Bookstore.net\\API\\Core\\Application\\Bookstore.Application\\Bookstore.Application.csproj",
+        "projectUniqueName": "C:\\Users\\Benjamin\\source\\WebAPIs\\Bookstore.net\\API\\Core\\Application\\Bookstore.Application\\Bookstore.Application.csproj",
         "projectName": "Bookstore.Application",
-        "projectPath": "c:\\Users\\Benjamin\\source\\WebAPIs\\Bookstore.net\\API\\Core\\Application\\Bookstore.Application\\Bookstore.Application.csproj",
+        "projectPath": "C:\\Users\\Benjamin\\source\\WebAPIs\\Bookstore.net\\API\\Core\\Application\\Bookstore.Application\\Bookstore.Application.csproj",
         "packagesPath": "C:\\Users\\Benjamin\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Benjamin\\source\\WebAPIs\\Bookstore.net\\API\\Core\\Application\\Bookstore.Application\\obj\\",
+        "outputPath": "C:\\Users\\Benjamin\\source\\WebAPIs\\Bookstore.net\\API\\Core\\Application\\Bookstore.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Benjamin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -29,11 +29,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "c:\\Users\\Benjamin\\source\\WebAPIs\\Bookstore.net\\API\\Core\\Domain\\Bookstore.Domain\\Bookstore.Domain.csproj": {
-                "projectPath": "c:\\Users\\Benjamin\\source\\WebAPIs\\Bookstore.net\\API\\Core\\Domain\\Bookstore.Domain\\Bookstore.Domain.csproj"
+              "C:\\Users\\Benjamin\\source\\WebAPIs\\Bookstore.net\\API\\Core\\Domain\\Bookstore.Domain\\Bookstore.Domain.csproj": {
+                "projectPath": "C:\\Users\\Benjamin\\source\\WebAPIs\\Bookstore.net\\API\\Core\\Domain\\Bookstore.Domain\\Bookstore.Domain.csproj"
               },
-              "c:\\Users\\Benjamin\\source\\WebAPIs\\Bookstore.net\\API\\Infrastructure\\Bookstore.Infrastructure\\Bookstore.Infrastructure.csproj": {
-                "projectPath": "c:\\Users\\Benjamin\\source\\WebAPIs\\Bookstore.net\\API\\Infrastructure\\Bookstore.Infrastructure\\Bookstore.Infrastructure.csproj"
+              "C:\\Users\\Benjamin\\source\\WebAPIs\\Bookstore.net\\API\\Infrastructure\\Bookstore.Infrastructure\\Bookstore.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\Benjamin\\source\\WebAPIs\\Bookstore.net\\API\\Infrastructure\\Bookstore.Infrastructure\\Bookstore.Infrastructure.csproj"
               }
             }
           }
@@ -89,18 +89,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.109\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.110\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "c:\\Users\\Benjamin\\source\\WebAPIs\\Bookstore.net\\API\\Core\\Domain\\Bookstore.Domain\\Bookstore.Domain.csproj": {
+    "C:\\Users\\Benjamin\\source\\WebAPIs\\Bookstore.net\\API\\Core\\Domain\\Bookstore.Domain\\Bookstore.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Benjamin\\source\\WebAPIs\\Bookstore.net\\API\\Core\\Domain\\Bookstore.Domain\\Bookstore.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Benjamin\\source\\WebAPIs\\Bookstore.net\\API\\Core\\Domain\\Bookstore.Domain\\Bookstore.Domain.csproj",
         "projectName": "Bookstore.Domain",
-        "projectPath": "c:\\Users\\Benjamin\\source\\WebAPIs\\Bookstore.net\\API\\Core\\Domain\\Bookstore.Domain\\Bookstore.Domain.csproj",
+        "projectPath": "C:\\Users\\Benjamin\\source\\WebAPIs\\Bookstore.net\\API\\Core\\Domain\\Bookstore.Domain\\Bookstore.Domain.csproj",
         "packagesPath": "C:\\Users\\Benjamin\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Benjamin\\source\\WebAPIs\\Bookstore.net\\API\\Core\\Domain\\Bookstore.Domain\\obj\\",
+        "outputPath": "C:\\Users\\Benjamin\\source\\WebAPIs\\Bookstore.net\\API\\Core\\Domain\\Bookstore.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Benjamin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -145,18 +145,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.109\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.110\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "c:\\Users\\Benjamin\\source\\WebAPIs\\Bookstore.net\\API\\Infrastructure\\Bookstore.Infrastructure\\Bookstore.Infrastructure.csproj": {
+    "C:\\Users\\Benjamin\\source\\WebAPIs\\Bookstore.net\\API\\Infrastructure\\Bookstore.Infrastructure\\Bookstore.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Benjamin\\source\\WebAPIs\\Bookstore.net\\API\\Infrastructure\\Bookstore.Infrastructure\\Bookstore.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\Benjamin\\source\\WebAPIs\\Bookstore.net\\API\\Infrastructure\\Bookstore.Infrastructure\\Bookstore.Infrastructure.csproj",
         "projectName": "Bookstore.Infrastructure",
-        "projectPath": "c:\\Users\\Benjamin\\source\\WebAPIs\\Bookstore.net\\API\\Infrastructure\\Bookstore.Infrastructure\\Bookstore.Infrastructure.csproj",
+        "projectPath": "C:\\Users\\Benjamin\\source\\WebAPIs\\Bookstore.net\\API\\Infrastructure\\Bookstore.Infrastructure\\Bookstore.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\Benjamin\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Benjamin\\source\\WebAPIs\\Bookstore.net\\API\\Infrastructure\\Bookstore.Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\Benjamin\\source\\WebAPIs\\Bookstore.net\\API\\Infrastructure\\Bookstore.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Benjamin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -174,8 +174,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "c:\\Users\\Benjamin\\source\\WebAPIs\\Bookstore.net\\API\\Core\\Domain\\Bookstore.Domain\\Bookstore.Domain.csproj": {
-                "projectPath": "c:\\Users\\Benjamin\\source\\WebAPIs\\Bookstore.net\\API\\Core\\Domain\\Bookstore.Domain\\Bookstore.Domain.csproj"
+              "C:\\Users\\Benjamin\\source\\WebAPIs\\Bookstore.net\\API\\Core\\Domain\\Bookstore.Domain\\Bookstore.Domain.csproj": {
+                "projectPath": "C:\\Users\\Benjamin\\source\\WebAPIs\\Bookstore.net\\API\\Core\\Domain\\Bookstore.Domain\\Bookstore.Domain.csproj"
               }
             }
           }
@@ -215,18 +215,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.109\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.110\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "c:\\Users\\Benjamin\\source\\WebAPIs\\Bookstore.net\\API\\Tests\\Bookstore.Tests\\Bookstore.Tests.csproj": {
+    "C:\\Users\\Benjamin\\source\\WebAPIs\\Bookstore.net\\API\\Tests\\Bookstore.Tests\\Bookstore.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Benjamin\\source\\WebAPIs\\Bookstore.net\\API\\Tests\\Bookstore.Tests\\Bookstore.Tests.csproj",
+        "projectUniqueName": "C:\\Users\\Benjamin\\source\\WebAPIs\\Bookstore.net\\API\\Tests\\Bookstore.Tests\\Bookstore.Tests.csproj",
         "projectName": "Bookstore.Tests",
-        "projectPath": "c:\\Users\\Benjamin\\source\\WebAPIs\\Bookstore.net\\API\\Tests\\Bookstore.Tests\\Bookstore.Tests.csproj",
+        "projectPath": "C:\\Users\\Benjamin\\source\\WebAPIs\\Bookstore.net\\API\\Tests\\Bookstore.Tests\\Bookstore.Tests.csproj",
         "packagesPath": "C:\\Users\\Benjamin\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Benjamin\\source\\WebAPIs\\Bookstore.net\\API\\Tests\\Bookstore.Tests\\obj\\",
+        "outputPath": "C:\\Users\\Benjamin\\source\\WebAPIs\\Bookstore.net\\API\\Tests\\Bookstore.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Benjamin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -244,11 +244,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "c:\\Users\\Benjamin\\source\\WebAPIs\\Bookstore.net\\API\\Core\\Application\\Bookstore.Application\\Bookstore.Application.csproj": {
-                "projectPath": "c:\\Users\\Benjamin\\source\\WebAPIs\\Bookstore.net\\API\\Core\\Application\\Bookstore.Application\\Bookstore.Application.csproj"
+              "C:\\Users\\Benjamin\\source\\WebAPIs\\Bookstore.net\\API\\Core\\Application\\Bookstore.Application\\Bookstore.Application.csproj": {
+                "projectPath": "C:\\Users\\Benjamin\\source\\WebAPIs\\Bookstore.net\\API\\Core\\Application\\Bookstore.Application\\Bookstore.Application.csproj"
               },
-              "c:\\Users\\Benjamin\\source\\WebAPIs\\Bookstore.net\\API\\Core\\Domain\\Bookstore.Domain\\Bookstore.Domain.csproj": {
-                "projectPath": "c:\\Users\\Benjamin\\source\\WebAPIs\\Bookstore.net\\API\\Core\\Domain\\Bookstore.Domain\\Bookstore.Domain.csproj"
+              "C:\\Users\\Benjamin\\source\\WebAPIs\\Bookstore.net\\API\\Core\\Domain\\Bookstore.Domain\\Bookstore.Domain.csproj": {
+                "projectPath": "C:\\Users\\Benjamin\\source\\WebAPIs\\Bookstore.net\\API\\Core\\Domain\\Bookstore.Domain\\Bookstore.Domain.csproj"
               }
             }
           }
@@ -316,7 +316,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.109\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.110\\RuntimeIdentifierGraph.json"
         }
       }
     }

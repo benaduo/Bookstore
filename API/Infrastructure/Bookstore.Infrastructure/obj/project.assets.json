@@ -790,11 +790,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\Benjamin\\source\\WebAPIs\\Bookstore.net\\API\\Infrastructure\\Bookstore.Infrastructure\\Bookstore.Infrastructure.csproj",
+      "projectUniqueName": "C:\\Users\\Benjamin\\source\\WebAPIs\\Bookstore.net\\API\\Infrastructure\\Bookstore.Infrastructure\\Bookstore.Infrastructure.csproj",
       "projectName": "Bookstore.Infrastructure",
-      "projectPath": "c:\\Users\\Benjamin\\source\\WebAPIs\\Bookstore.net\\API\\Infrastructure\\Bookstore.Infrastructure\\Bookstore.Infrastructure.csproj",
+      "projectPath": "C:\\Users\\Benjamin\\source\\WebAPIs\\Bookstore.net\\API\\Infrastructure\\Bookstore.Infrastructure\\Bookstore.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\Benjamin\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\Benjamin\\source\\WebAPIs\\Bookstore.net\\API\\Infrastructure\\Bookstore.Infrastructure\\obj\\",
+      "outputPath": "C:\\Users\\Benjamin\\source\\WebAPIs\\Bookstore.net\\API\\Infrastructure\\Bookstore.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Benjamin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -812,8 +812,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "c:\\Users\\Benjamin\\source\\WebAPIs\\Bookstore.net\\API\\Core\\Domain\\Bookstore.Domain\\Bookstore.Domain.csproj": {
-              "projectPath": "c:\\Users\\Benjamin\\source\\WebAPIs\\Bookstore.net\\API\\Core\\Domain\\Bookstore.Domain\\Bookstore.Domain.csproj"
+            "C:\\Users\\Benjamin\\source\\WebAPIs\\Bookstore.net\\API\\Core\\Domain\\Bookstore.Domain\\Bookstore.Domain.csproj": {
+              "projectPath": "C:\\Users\\Benjamin\\source\\WebAPIs\\Bookstore.net\\API\\Core\\Domain\\Bookstore.Domain\\Bookstore.Domain.csproj"
             }
           }
         }
@@ -853,7 +853,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.109\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.110\\RuntimeIdentifierGraph.json"
       }
     }
   }
